@@ -7,7 +7,7 @@
 Installing:
 1. Put "vim_config" directory into /home/*username*/
 2. Write this line in .vimrc:
-    source vim_config/init.vim
+    source ~/vim_config/init.vim
 
 Useful mappings:
 
