@@ -63,5 +63,5 @@ Useful mappings:
     <            - horizontal scroll 2 columns left (if wrap is off)
 
 See the source code for more comprehension.
-Set Unicode encoding by "set enc=uft-8" to see all the characters there.
+Set Unicode encoding by "set enc=utf-8" to see all the characters there.
 
